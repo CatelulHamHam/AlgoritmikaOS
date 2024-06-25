@@ -1,7 +1,7 @@
 # AlgortmikaOS
 
 ## Who are we?
-A bunch of really bored programmers that work in teaching programming to little children from ages 5-16... 
+A bunch of really bored programmers that work in teaching programming to little children from ages 8-18... 
 
 ## What is this really
 This is currently a lightweight WindowsXLite10-based operating system (made for Dell Latitude 4800 and sum Weigo laptops that are very cheap and I don't like them :P)  which is very restricted because the children we teach are naughty and they change the wallpaper and stuff... We don't want that. 
