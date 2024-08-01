@@ -10,13 +10,13 @@ This is currently a lightweight WindowsXLite10-based operating system (made for 
 Certainly! Here's a list of features this system has and features that we may do or that we may not:
 -Built-in drivers! (Only for Dell Latitude 4800 and that weird-ass Weigo laptop..) 🟢
 
--Programs for children. For example, we have Chrome, Vs-code, scratch, and the Alkoritmika program) 🟢
+-Programs for children. For example, we have Chrome, Vs-code, scratch, and the Alkoritmika program) 🟢DONE🟢
 
 -RESTRICTIONS, there are a lot of restrictions, I am only going to name a few: Disabling the audio driver because children like to blast music, Not letting them change the wallpapers, or having Admin privileges at all. 🟢
 
--Built-in User account, one is Admin with a password and admin privileges, and there is a Student one that has guest privileges. 🟢
+-Built-in User account, one is Admin with a password and admin privileges, and there is a Student one that has guest privileges. 🟢DONE🟢
 
--Skipping OOBE and other Microsoft b*llshit in setup 🟢
+-Skipping OOBE and other Microsoft b*llshit in setup 🟢DONE🟢
 
 -Windows-SteadyState, well this one is a maybe.. 🟡
 
