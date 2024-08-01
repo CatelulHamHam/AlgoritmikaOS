@@ -8,7 +8,8 @@ This is currently a lightweight WindowsXLite10-based operating system (made for 
 
 ## Features ONG!
 Certainly! Here's a list of features this system has and features that we may do or that we may not:
--Built-in drivers! (Only for Dell Latitude 4800 and that weird-ass Weigo laptop..) 🟢
+
+-Built-in drivers! (Only for Dell Latitude 4580 and that weird-ass Weigo laptop..) 🟢
 
 -Programs for children. For example, we have Chrome, Vs-code, scratch, and the Alkoritmika program) 🟢DONE🟢
 
